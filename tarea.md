@@ -13,6 +13,7 @@
 ![Imagen](/images/frog100x100.jpg)
 
 ## 1.4 Tabla
+
 |Mayúscula   | Minúscula    | Número    | 
 |------------|--------------|-----------|
 | A          | a            | 1         |
