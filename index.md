@@ -9,10 +9,10 @@
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
 ## Enlace a otra parte de página
-[Haz click aquí para ir a Tabla](#Resaltado)
+[Haz click aquí para ir a Resaltado](#Resaltado)
 
 ## Enlace a otra página de esta web
-[Haz click aquí para ir a Tabla](#Resaltado)
+[Haz click aquí para ir a README.md](/README.md)
 
 ## Imagen 
 ![Imagen](/images/frog100x100.jpg)
