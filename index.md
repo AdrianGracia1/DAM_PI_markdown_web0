@@ -15,7 +15,7 @@
 [Haz click aquí para ir a Tabla](#Resaltado)
 
 ## Imagen 
-![Imagen](/DAM_PI_markdown_web0/images/frog100x100.jpg)
+![Imagen](/images/frog100x100.jpg)
 
 
 ## Tabla
