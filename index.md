@@ -25,10 +25,7 @@
 | A          | a            | 1         |
 | B          | b            | 2         |
 | C          | c            | 3         |
-
-
-## Código HTML dentro de markdown
-
-<div style="border: 1px solid #309920; padding:10px;">
-    Esto es texto dentro de un div verde.
-</div>
+| D          | d            | 4         |
+| E          | e            | 5         |
+| F          | f            | 6         |
+| G          | g            | 7         |
